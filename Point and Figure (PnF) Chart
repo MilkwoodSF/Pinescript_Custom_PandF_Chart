@@ -1,5 +1,5 @@
 // This source code is subject to the terms of the Mozilla Public License 2.0 at https://mozilla.org/MPL/2.0/
-// © AceFace
+// © AceFace hoc facit
 //
 //@version=4
 study("Point and Figure (PnF) Chart", overlay=true, max_bars_back=5000)
